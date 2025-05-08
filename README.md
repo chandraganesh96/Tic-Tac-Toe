@@ -11,9 +11,6 @@ A simple and interactive Tic-Tac-Toe game built with React. It supports two-play
 - 📝 Move log showing the history of plays
 - 🔁 Optional: Game over screen with winner/draw message and reset button
 
-## 📷 Screenshot
-*(Insert a screenshot of your game UI here)*
-
 ## 🛠️ Tech Stack
 - React (with hooks)
 - JavaScript (ES6+)
